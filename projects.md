@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 #### FACT: Food and ACtivity Tracker
-##### CS 225: Next Generation Search Systems
+##### CS 225: Next Generation Search Systems, Winter 2018
 FACT is a mobile app for managing personal diet and exercise. It uses the Google Fit platform to log the user's physical activities (like walking, running, cycling, exercising, etc.), as well as the user's food intake. The user can set a fitness goal (gaining weight, losing weight, or maintaining weight). Based on the user's fitness goals, his/her activity levels, and food preferences, the app will recommend what food items to eat for each meal of the day (breakfast, lunch, dinner, as well as snacks).
 
 The app is currently a prototype.
