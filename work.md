@@ -4,6 +4,8 @@ title: Work
 permalink: /work/
 ---
 
+Resume: <a href="resume.pdf">resume.pdf</a>
+
 #### Android Developer
 ##### Radio Javan
 ##### October 2016 - January 2018
