@@ -14,6 +14,13 @@ Expected graduation date: June 2021
 #### Teaching Experience
 Teaching Assistant, 5 quarters
 
+#### Research Work
+Research Assistant, Fall 2017  
+Title: Gender Representation in Graduate Syllabi
+Co-PIs: Dr. Heidi Hardt and Dr. Amy Erica Smith
+
+As part of this research work, I developed a website for searching through a database of citations.
+
 ### Past
 B.S. Computer Science and Engineering  
 University of California, Irvine  
