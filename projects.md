@@ -10,7 +10,8 @@ The drone system has two components: mobile app and server. The mobile app is us
 
 ##### GitHub: [senior-project](https://github.com/arashn/senior-project)
 
-#### CSE 132L: Computer Architecture Lab - Class Project
+#### Computer Architecture Lab - Class Project
+##### CSE 132L Winter 2016
 Designed a 32-bit MIPS processor in VHDL. As the team leader, I orchestrated project tasks among the team members, and oversaw the integration of the different components developed (controller, register file, 32-bit ALU, ROM, etc.)
 
 ##### Project source code: <a href="cse132L_CART.zip">cse132L_CART.zip</a>
