@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-Resume: <a href="../assets/resume.pdf">resume.pdf</a>
+Resume: <a href="http://www.arashnabili.com/assets/resume.pdf">resume.pdf</a>
 
 #### Android Developer
 ##### Radio Javan
