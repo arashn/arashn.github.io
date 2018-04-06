@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-### Graduate
+### Current
 PhD, Computer Science  
 Donald Bren School of Information and Computer Sciences  
 University of California, Irvine  
@@ -14,7 +14,7 @@ Expected graduation date: June 2021
 #### Teaching Experience
 Teaching Assistant, 5 quarters
 
-### Undergraduate
+### Past
 B.S. Computer Science and Engineering  
 University of California, Irvine  
 Graduation date: June 2016  
