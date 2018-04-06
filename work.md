@@ -19,6 +19,6 @@ Designed and implemented a web-based tool to manage automatic app entitlements f
 #### Software Engineering Intern
 ##### Levyx, Inc.
 ##### April 2015 - August 2016
-Educated other interns on Apache Spark's funcitonality and internals  
+Educated other interns on Apache Spark's functionality and internals  
 Developed a suite of tests to evaluate Apache Spark's performance  
 Maintained and contributed to the company's software products
