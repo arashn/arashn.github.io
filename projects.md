@@ -21,6 +21,7 @@ The drone system has two components: mobile app and server. The mobile app is us
 
 #### 32-bit MIPS Processor
 ##### CSE 132L: Computer Architecture Lab, Winter 2016
-Designed a 32-bit MIPS processor in VHDL. As the team leader, I orchestrated project tasks among the team members, and oversaw the integration of the different components developed (controller, register file, 32-bit ALU, ROM, etc.)
+Designed a 32-bit MIPS processor in VHDL. The processor is pipelined, allowing for multiple instructions in the pipeline in a single clock cycle. The processor design is broken into stages (fetch, decode, execute, mem, writeback), and the stages are integrated via registers at stage boundaries.  
+As the team leader, I orchestrated project tasks among the team members, and oversaw the integration of the different components developed (controller, register file, 32-bit ALU, ROM, etc.)
 
 ##### Project source code: <a href="http://www.arashnabili.com/assets/cse132L_CART.zip">cse132L_CART.zip</a>
