@@ -10,6 +10,6 @@ I am incredibly thankful for my advisor, Professor [Amelia Regan](http://faculty
 
 I am thankful for my parents and my brother for supporting me all of my life, and for their sacrifices for me to pursue my dreams. I dedicate my life and works to them.
 
-I would like to give a special thanks to my cousin and dear friend, Farbod Misaghian, who has believed in me and has been a role-model for me in my academic endeavor.
+I would like to give a special thanks to my dear friend and colleague, [Dr. Pooria Yaghini](http://newport.eecs.uci.edu/~pooriam/). His mentorship and support in recent years has been greatly influential in my career.
 
 Finally, I thank all of my friends and family for their kindness and support.
