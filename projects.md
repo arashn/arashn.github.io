@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
+#### DPRT: Dealer Plate Report & Tracking
+DPRT is a platform for auto dealerships to manage their license plates and to record and get reports of test drives. It provides a central hub for keeping a record of all test drives, making it easier and more cost-effective for both dealerships and DMV/MVDs to audit test drive records.
+
+The platform includes:
+* The DPRT Dashboard, a web application where an office administrator can view a daily summary; get test drive reports for a date range; and manage users and dealer plates for the office
+* Mobile applications to record and view active and past test drives
+
+The mobile apps allow the dealer to record information about the test drive easily, simply by scanning barcodes from the driver's license and from the VIN barcode from the vehicle. The application provides real-time updates about active test drives, and what license plates are currently in use.
+
 #### FACT: Food and ACtivity Tracker
 ##### CS 225: Next Generation Search Systems, Winter 2018
 FACT is a mobile app for managing personal diet and exercise. It uses the Google Fit platform to log the user's physical activities (like walking, running, cycling, exercising, etc.), as well as the user's food intake. The user can set a fitness goal (gaining weight, losing weight, or maintaining weight). Based on the user's fitness goals, his/her activity levels, and food preferences, the app will recommend what food items to eat for each meal of the day (breakfast, lunch, dinner, as well as snacks).
