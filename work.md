@@ -6,6 +6,12 @@ permalink: /work/
 
 Resume: <a href="http://www.arashnabili.com/assets/resume.pdf">resume.pdf</a>
 
+#### Associate Engineer - Satellite Development
+##### SpaceX
+##### June 2018 - September 2018
+Designed and developed test suites for verification of satellite modem chip design on FPGAs.
+Developed a web portal for visualizing various Quality of IP (QIP) metrics (code coverage, regression test results, JIRA issues, source code changes, etc.)
+
 #### Android Developer
 ##### Radio Javan
 ##### October 2016 - January 2018
