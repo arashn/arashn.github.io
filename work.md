@@ -4,7 +4,12 @@ title: Work
 permalink: /work/
 ---
 
-Resume: <a href="http://www.arashnabili.com/assets/resume.pdf">resume.pdf</a>
+#### Software Engineer
+##### Levyx, Inc.
+##### January 2019 - Present
+Developed a reference implementation of the BLASH (Buy Low and Sell High) trading algorithm using Apache Spark
+Updated and maintained client libraries for Xenon, Levyx’s high-performance distributed data store
+Modified the STAC-A3 Mean-Revert with Options backtesting benchmark to accelerate computation with Xenon and FPGAs
 
 #### Associate Engineer - Satellite Development
 ##### SpaceX
@@ -14,8 +19,9 @@ Developed a web portal for visualizing various Quality of IP (QIP) metrics (code
 
 #### Android Developer
 ##### Radio Javan
-##### October 2016 - January 2018
-Overhauled the Radio Javan Android app to use the standard Android framework and to have a Material Design-compliant UI.
+##### October 2016 - Present
+Overhauled the Radio Javan Android app to use the standard Android framework and to have a Material Design-compliant UI
+Extended support to new platforms, including Chromecast, Sonos, and Android Auto
 
 #### Software Development Engineering Intern
 ##### Amazon, Inc.
