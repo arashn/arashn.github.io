@@ -7,20 +7,20 @@ permalink: /work/
 #### Software Engineer
 ##### Levyx, Inc.
 ##### January 2019 - Present
-Developed a reference implementation of the BLASH (Buy Low and Sell High) trading algorithm using Apache Spark
-Updated and maintained client libraries for Xenon, Levyx’s high-performance distributed data store
+Developed a reference implementation of the BLASH (Buy Low and Sell High) trading algorithm using Apache Spark  
+Updated and maintained client libraries for Xenon, Levyx’s high-performance distributed data store  
 Modified the STAC-A3 Mean-Revert with Options backtesting benchmark to accelerate computation with Xenon and FPGAs
 
 #### Associate Engineer - Satellite Development
 ##### SpaceX
 ##### June 2018 - September 2018
-Designed and developed test suites for verification of satellite modem chip design on FPGAs.
+Designed and developed test suites for verification of satellite modem chip design on FPGAs  
 Developed a web portal for visualizing various Quality of IP (QIP) metrics (code coverage, regression test results, JIRA issues, source code changes, etc.)
 
 #### Android Developer
 ##### Radio Javan
 ##### October 2016 - Present
-Overhauled the Radio Javan Android app to use the standard Android framework and to have a Material Design-compliant UI
+Overhauled the Radio Javan Android app to use the standard Android framework and to have a Material Design-compliant UI  
 Extended support to new platforms, including Chromecast, Sonos, and Android Auto
 
 #### Software Development Engineering Intern
