@@ -10,6 +10,7 @@ permalink: /work/
 Developed a reference implementation of the BLASH (Buy Low and Sell High) trading algorithm using Apache Spark  
 Updated and maintained client libraries for Xenon, Levyx’s high-performance distributed data store  
 Modified the STAC-A3 Mean-Revert with Options backtesting benchmark to accelerate computation with Xenon and FPGAs
+Contributed to the development of Levyx's products, Helium and Xenon
 
 #### Associate Engineer - Satellite Development
 ##### SpaceX
