@@ -5,6 +5,13 @@ permalink: /work/
 ---
 
 #### Software Engineer
+##### iHerb
+##### April 2020 - Present
+Performed exploratory data analysis to look for relationship between customer shopping patterns and product attributes (e.g. product category)
+Migrated the company’s Apache Solr instances to Kubernetes clusters for elasticity
+Added APIs and functionality to the company’s backend service for searching products
+
+#### Software Engineer
 ##### Levyx, Inc.
 ##### January 2019 - February 2020
 Developed a reference implementation of the BLASH (Buy Low and Sell High) trading algorithm using Apache Spark  
