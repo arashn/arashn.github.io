@@ -19,7 +19,7 @@ Updated and maintained client libraries for Xenon, Levyx’s high-performance di
 Modified the STAC-A3 Mean-Revert with Options backtesting benchmark to accelerate computation with Xenon and FPGAs  
 Contributed to the development of Levyx's products, Helium and Xenon
 
-#### Associate Engineer - Satellite Development
+#### Engineering Intern - Satellite Development
 ##### SpaceX
 ##### June 2018 - September 2018
 Designed and developed test suites for verification of satellite modem chip design on FPGAs  
