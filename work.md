@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-Resume: [resume.pdf](https://arashnabili.com/assets/resume.pdf)
+[Resume](https://arashnabili.com/assets/resume.pdf)
 
 #### Software Engineer
 ##### iHerb
