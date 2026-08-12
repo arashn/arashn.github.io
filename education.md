@@ -4,22 +4,21 @@ title: Education
 permalink: /education/
 ---
 
-### M.S. Computer Science 
-University of California, Irvine  
-Completion date: June 2018  
-Final GPA: 3.9
+## University of California, Irvine
 
-#### Teaching Experience
-Teaching Assistant, 5 quarters
+### Doctoral Studies in Computer Science
 
-#### Research Work
-Research Assistant, Fall 2017  
-Title: Gender Representation in Political Science Graduate Training  
-Co-PIs: Dr. Heidi Hardt and Dr. Amy Erica Smith
+2016–2018 · Left the program to pursue a career in industry
 
-As part of this research work, I developed a website for searching through a database of citations.
+### Master of Science in Computer Science
 
-### B.S. Computer Science and Engineering 
-University of California, Irvine  
-Graduation date: June 2016  
-Final GPA: 3.9
+2016–2018 · GPA: 3.9
+
+### Bachelor of Science in Computer Science and Engineering
+
+2012–2016 · GPA: 3.9
+
+## Teaching and Research
+
+- Served as a teaching assistant for five academic quarters, assisting students in core computer-science courses.
+- Worked as a graduate researcher and built a React-based tool for academic researchers to analyze citation trends in graduate syllabi.
