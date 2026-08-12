@@ -16,9 +16,9 @@
 title: Arash Nabili
 email: arash.nabili@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Arash Nabili's personal website
+  Arash Nabili is a software engineer, architect, and founder building backend platforms, cloud infrastructure, and AI-enabled products.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arashnabili.com"
 #facebook_username: arash.nabili
 #twitter_username: arashnabili
 linkedin_username: arashnabili
