@@ -33,7 +33,7 @@ permalink: /work/
 - Architected and deployed Terraform-managed AWS infrastructure for an AI medical-coding platform across development, staging, and production, including ECS Fargate, ECR, RDS, S3, SQS, ALB, CloudFront, KMS, isolated remote state, and GitHub Actions CI/CD.
 - Containerized and migrated a FastAPI backend, Streamlit frontend, and AI coding workers; implemented asynchronous SQS task distribution, S3 presigned uploads, and separate CPT/ICD-10/ASA and HL7/radiology agent workflows using OpenAI, Anthropic, and Gemini models.
 - Increased concurrent processing from 5 to 15 threads per task, for 60 total workers, implemented backpressure-aware SQS polling, and configured auto-scaling policies from 4 to 8 tasks. This reduced batch processing time by 40% and eliminated out-of-memory errors through memory optimization from 8 GB to 16 GB per task.
-- Hardened the platform for HIPAA-oriented workloads with KMS-encrypted data paths, secure-transport S3 policies, AWS WAF, GuardDuty, AWS Config rules, private networking, least-privilege IAM, and documented security controls.
+- Ensured the deliverable met HIPAA compliance requirements by implementing and validating against a HIPAA security checklist covering KMS-encrypted data paths, secure-transport S3 policies, AWS WAF, GuardDuty, AWS Config rules, private networking, least-privilege IAM, and documented security controls.
 
 ### Gain Health Net · June 2024–December 2025
 
@@ -57,10 +57,6 @@ permalink: /work/
 - Built C#/ASP.NET Core proofs of concept and production integration components for Stripe billing, 700Credit report retrieval, VinAudit VIN/YMMT data, MarketCheck inventory import and image upload, and QuickTags DMV services.
 - Developed a generative-AI workflow for producing seller comments tailored to marketplaces such as CarGurus, Cars.com, and AutoTrader.
 - Improved data parsing, persistence, null safety, signed-URL handling, image transfer, and API test coverage across automotive dealer-management workflows.
-
-### MarketMind AI/ML Platform · May 2025
-
-- Containerized and automated Google Cloud Run deployments for Python backend, question-generation, and answer-generation services using GitHub Actions and managed secrets.
 
 ## My Car Auction Inc. · Irvine, California
 

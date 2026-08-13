@@ -14,12 +14,6 @@ permalink: /projects/
 - Developed a Claude-based topic segmentation and summarization pipeline on a dedicated branch, using sliding-window topic-change detection, confidence thresholds, short-topic batching, Persian summary generation, Cosmos DB persistence, and real-time WebSocket delivery.
 - Provisioned Azure Container Apps, Container Registry, Speech, Translator, Cosmos DB, Log Analytics, and wildcard DNS using Terraform and automated deployments with GitHub Actions.
 
-## Paywalled Livestream Widget
-
-*Node.js, Stripe, Twilio, PostgreSQL · 2026*
-
-- Built an embeddable paywalled-video widget with Twilio Verify SMS authentication, signed access cookies, Stripe Elements payments and webhooks, PostgreSQL-backed entitlement windows, cross-origin embedding controls, and server-enforced pricing.
-
 ## [OBD-II Diagnostic Reader](https://github.com/arashn/obdii-reader)
 
 *C, ATmega32, Embedded Systems · 2015–2022*
