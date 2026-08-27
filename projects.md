@@ -14,6 +14,13 @@ permalink: /projects/
 - Developed a Claude-based topic segmentation and summarization pipeline on a dedicated branch, using sliding-window topic-change detection, confidence thresholds, short-topic batching, Persian summary generation, Cosmos DB persistence, and real-time WebSocket delivery.
 - Provisioned Azure Container Apps, Container Registry, Speech, Translator, Cosmos DB, Log Analytics, and wildcard DNS using Terraform and automated deployments with GitHub Actions.
 
+## [Consumer Marketplace](https://marketplace.arashdemos.com)
+
+*Java, Spring Boot, AWS, Terraform, Stripe · 2021–Present*
+
+- Designed and built the backend for a consumer vehicle marketplace, supporting user accounts, vehicle listings and search, offers, payments, real-time auctions, notifications, and third-party vehicle data integrations.
+- Provisioned full and cost-optimized demo environments with Terraform across AWS and managed services, including Cognito, Elastic Beanstalk, API Gateway WebSockets, S3, DynamoDB, SQS, SES, MongoDB Atlas, Elasticsearch, Redis, and Stripe webhooks.
+
 ## [OBD-II Diagnostic Reader](https://github.com/arashn/obdii-reader)
 
 *C, ATmega32, Embedded Systems · 2015–2022*
