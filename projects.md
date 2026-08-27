@@ -8,6 +8,8 @@ permalink: /projects/
 
 *TypeScript, Azure, WebSockets, Terraform · 2025–Present*
 
+*[Publisher page](https://test.letstranslate.app/publisher) · [Listener page](https://test.letstranslate.app/listener)*
+
 - Built a multi-tenant, room-scoped English-to-Persian live translation platform using Azure Speech recognition, Azure Translator, neural text-to-speech, and low-latency WebSocket audio and caption streaming.
 - Implemented stable sentence-boundary detection over revisable partial ASR results, monotonic commit cursors, terminology overrides, Persian normalization, and de-duplicated per-room TTS queues.
 - Added subdomain-based tenant isolation, transcript persistence in Cosmos DB, Stripe subscription management, progressive web app support, and publisher, listener, and billing experiences.
