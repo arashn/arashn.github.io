@@ -2,41 +2,110 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="home-landing">
+  <section class="home-hero" aria-labelledby="home-title">
+    <p class="home-eyebrow">Backend systems · Cloud platforms · Applied AI</p>
+    <h1 id="home-title">I turn complex product ideas into reliable software.</h1>
+    <p class="home-intro">I’m Arash Nabili, a software engineer, architect, and founder. I design and deliver production systems end to end—from domain models and distributed backends to cloud infrastructure, AI workflows, and the customer experience.</p>
+    <p class="home-context">Across 7+ years of full-time, post-school experience, I’ve worked in automotive, healthcare, e-commerce, media, aerospace, and search—often where the architecture is ambiguous, the stakes are real, and strong execution matters.</p>
+    <div class="home-actions">
+      <a class="home-button home-button-primary" href="{{ '/work/' | relative_url }}">Explore my work</a>
+      <a class="home-button home-button-secondary" href="{{ '/projects/' | relative_url }}">View selected projects</a>
+    </div>
+  </section>
 
-  <h1>Software Engineer, Architect, and Founder</h1>
+  <section class="home-section home-impact" aria-labelledby="impact-title">
+    <div class="home-section-heading">
+      <p class="home-kicker">Measured impact</p>
+      <h2 id="impact-title">Engineering that moves the business</h2>
+    </div>
+    <div class="impact-grid">
+      <article class="impact-card">
+        <p class="impact-value">2M</p>
+        <p class="impact-label">monthly active users supported by the Radio Javan Android app</p>
+      </article>
+      <article class="impact-card">
+        <p class="impact-value">50%</p>
+        <p class="impact-label">improvement in automotive operational efficiency</p>
+      </article>
+      <article class="impact-card">
+        <p class="impact-value">$500K</p>
+        <p class="impact-label">approximate annual savings enabled for an automotive client</p>
+      </article>
+      <article class="impact-card">
+        <p class="impact-value">20+</p>
+        <p class="impact-label">microservice repositories consolidated into a modular monolith</p>
+      </article>
+    </div>
+  </section>
 
-  <p>I build backend platforms, cloud infrastructure, AI-enabled products, and customer-facing applications. My work spans automotive, healthcare, e-commerce, media, aerospace, and search, with hands-on ownership from architecture through production operations.</p>
+  <section class="home-section" aria-labelledby="strengths-title">
+    <div class="home-section-heading">
+      <p class="home-kicker">What I bring</p>
+      <h2 id="strengths-title">Broad ownership, grounded in hands-on engineering</h2>
+    </div>
+    <div class="strength-grid">
+      <article class="strength-card">
+        <span class="strength-number">01</span>
+        <h3>Architecture with a path to production</h3>
+        <p>I translate unclear product requirements into maintainable system boundaries, data models, APIs, workflows, and pragmatic delivery plans.</p>
+      </article>
+      <article class="strength-card">
+        <span class="strength-number">02</span>
+        <h3>Backend and cloud depth</h3>
+        <p>I build distributed and multi-tenant platforms with Java, Python, TypeScript, and C#, then provision and operate them across AWS, Azure, and Google Cloud.</p>
+      </article>
+      <article class="strength-card">
+        <span class="strength-number">03</span>
+        <h3>Applied AI that serves the product</h3>
+        <p>I integrate LLM agents, speech recognition, translation, text-to-speech, and asynchronous AI workers into dependable customer-facing workflows.</p>
+      </article>
+      <article class="strength-card">
+        <span class="strength-number">04</span>
+        <h3>Leadership without leaving the code</h3>
+        <p>I partner with founders, guide architecture and product decisions, mentor engineers, review code, resolve incidents, and stay accountable for delivery.</p>
+      </article>
+    </div>
+  </section>
 
-  <p>I have 7+ years of full-time, post-school experience working across Java, Python, TypeScript, C#, distributed systems, infrastructure-as-code, and AWS, Azure, and Google Cloud.</p>
+  <section class="home-section home-featured" aria-labelledby="featured-title">
+    <div class="home-section-heading">
+      <p class="home-kicker">Representative work</p>
+      <h2 id="featured-title">Systems built across the stack</h2>
+    </div>
+    <div class="featured-list">
+      <article class="featured-item">
+        <div>
+          <p class="featured-meta">Real-time AI · Azure · TypeScript</p>
+          <h3>Live Translation Platform</h3>
+          <p>Multi-tenant English-to-Persian speech translation with low-latency captions and audio, terminology controls, transcript persistence, and LLM-based topic segmentation and summarization.</p>
+        </div>
+        <a href="{{ '/projects/' | relative_url }}#live-translation-platform" aria-label="Read about the Live Translation Platform">Read more <span aria-hidden="true">→</span></a>
+      </article>
+      <article class="featured-item">
+        <div>
+          <p class="featured-meta">Platform modernization · AWS · Python</p>
+          <h3>AI Customer Service Platform</h3>
+          <p>Consolidating more than 20 automotive AI microservices into a cohesive FastAPI modular monolith, backed by production-grade AWS infrastructure and migration tooling.</p>
+        </div>
+        <a href="{{ '/work/' | relative_url }}#4dlr--ai-customer-service-assistant-for-car-dealerships--may-2026present" aria-label="Read about the AI Customer Service Platform">Read more <span aria-hidden="true">→</span></a>
+      </article>
+      <article class="featured-item">
+        <div>
+          <p class="featured-meta">Healthcare AI · AWS · Security</p>
+          <h3>Medical Coding Platform</h3>
+          <p>Secure, autoscaling infrastructure and asynchronous agent workflows for AI-assisted medical coding, reducing batch time by 40% while eliminating out-of-memory failures.</p>
+        </div>
+        <a href="{{ '/work/' | relative_url }}#aishar-inc--november-2025march-2026" aria-label="Read about the Medical Coding Platform">Read more <span aria-hidden="true">→</span></a>
+      </article>
+    </div>
+  </section>
 
-  <p><a href="{{ '/work/' | relative_url }}">Professional experience</a> · <a href="{{ '/projects/' | relative_url }}">Selected projects</a> · <a href="{{ '/about/' | relative_url }}">About and technical skills</a></p>
+  <section class="home-closing" aria-labelledby="closing-title">
+    <p class="home-kicker">The through line</p>
+    <h2 id="closing-title">I’m at my best where product judgment, systems thinking, and execution meet.</h2>
+    <p>See the full story in my <a href="{{ '/work/' | relative_url }}">professional experience</a>, explore my <a href="{{ '/projects/' | relative_url }}">selected projects</a>, or review my <a href="{{ '/about/' | relative_url }}">technical background</a>.</p>
+  </section>
 
   {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
 </div>
